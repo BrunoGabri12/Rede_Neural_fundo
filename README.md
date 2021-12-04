@@ -21,8 +21,8 @@ Cada ativo possui algumas informações importantes que podem ser utilizadas par
 Já para os parâmetros, as métricas utilizadas foram:
 	
 - Vacância Física: Quantidade de imóveis do fundo desocupados. 
-- Patrimônio líquido: Soma do valor em caixa mais a soma de todos os ativos, subtraído da obrigação do fundo. - ok
-- Variação Patrimonial: Fator que representa o quanto um ativo oscila, com base em sua média - ok   
+- Patrimônio líquido: Soma do valor em caixa mais a soma de todos os ativos, subtraído da obrigação do fundo. 
+- Variação Patrimonial: Fator que representa o quanto um ativo oscila, com base em sua média   
 - Preço Atual: O valor da cota atual 
 - Variação do Preço: É a variação que o valor da cota sofreu durante os dois últimos meses.
 - P/VPA: É o preço da ação dividido pelo valor patrimonial. 
